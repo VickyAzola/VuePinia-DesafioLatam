@@ -1,35 +1,55 @@
-# vue-project
+# Vue Pinia (HTML, CSS, Vue.js, Pinia)
 
-This template should help get you started developing with Vue 3 in Vite.
+## Tabla de Contenidos
 
-## Recommended IDE Setup
+- [Descripción](#descripción)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Instalación](#instalación)
+- [Autores](#autores)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Descripción
 
-## Customize configuration
+Esta aplicación muestra una página estática con una tabla poblada mediante el uso de json, axios y pinia; donde se puede sumar o restar al stock de cada producto.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Tecnologías Utilizadas
 
-## Project Setup
+- **HTML5**: Para la estructura del sitio web.
+- **CSS**: Para el diseño y la presentación del sitio web.
+- **Vue.js**: Framework de JavaScript para construir interfaces de usuario.
+- **Pinia**: Para menejar el estado de la aplicación Vue.js.
+- **Axios**: Librería para realizar solicitudes HTTP, utilizada para obtener los datos de los productos.
 
-```sh
-npm install
-```
+## Instalación
 
-### Compile and Hot-Reload for Development
+Sigue los siguientes pasos para instalar y ejecutar el proyecto en tu entorno local:
 
-```sh
-npm run dev
-```
+1. Clona el repositorio:
 
-### Compile and Minify for Production
+    ```bash
+    git clone https://github.com/usuario/VuePinia-DesafioLatam.git
+    ```
 
-```sh
-npm run build
-```
+2. Navega al directorio del proyecto:
 
-### Lint with [ESLint](https://eslint.org/)
+    ```bash
+    cd VuePinia-DesafioLatam
+    ```
 
-```sh
-npm run lint
-```
+3. Instala las dependencias necesarias:
+
+    ```bash
+    npm install
+    ```
+
+4. Inicia el servidor de desarrollo:
+
+    ```bash
+    npm run dev
+    ```
+
+5.Abre el enlace 'Local' en tu navegador para ver la aplicación en funcionamiento.
+
+## Autores
+
+- **Desarrollador Principal**: [Victoria Azola Silva](https://github.com/VickyAzola) - Responsable del desarrollo del código.
+- **Diseñador**: [Desafío Latam](https://desafiolatam.com/admision/?utm_term=desafio%20latam&utm_campaign=Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=1239562006&hsa_cam=16998643182&hsa_grp=136655824715&hsa_ad=596057942540&hsa_src=g&hsa_tgt=kwd-340546658839&hsa_kw=desafio%20latam&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwvvmzBhA2EiwAtHVrbzEJGJPqUuTuFDuNIFtSh4eKqGXcLXmCO9u12vwlU553fGXV93Q5zxoCGmEQAvD_BwE) - Responsable del diseño gráfico y visual del proyecto.
