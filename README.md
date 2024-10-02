@@ -26,7 +26,7 @@ Sigue los siguientes pasos para instalar y ejecutar el proyecto en tu entorno lo
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/usuario/VuePinia-DesafioLatam.git
+    git clone https://github.com/VickyAzola/VuePinia-DesafioLatam.git
     ```
 
 2. Navega al directorio del proyecto:
