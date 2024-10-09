@@ -11,6 +11,8 @@
 
 Esta aplicación muestra una página estática con una tabla poblada mediante el uso de json, axios y pinia; donde se puede sumar o restar al stock de cada producto.
 
+![32Bits](https://github.com/user-attachments/assets/073650d2-30dc-431a-a8f4-200654fb6120)
+
 ## Tecnologías Utilizadas
 
 - **HTML5**: Para la estructura del sitio web.
